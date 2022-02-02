@@ -2,10 +2,11 @@
 null,
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":453},
 {"id":2,"expanded":false,"name":"大廈","order":2,"parentId":0,"scrollX":918,"scrollY":1523},
-{"id":3,"expanded":true,"name":"庭園","order":3,"parentId":0,"scrollX":811,"scrollY":504},
+{"id":3,"expanded":true,"name":"庭園","order":3,"parentId":0,"scrollX":811,"scrollY":747},
 {"id":4,"expanded":false,"name":"森林","order":4,"parentId":0,"scrollX":811,"scrollY":987},
-{"id":5,"expanded":true,"name":"城堡 3F","order":5,"parentId":0,"scrollX":811,"scrollY":445},
+{"id":5,"expanded":true,"name":"城堡 3F","order":5,"parentId":0,"scrollX":816,"scrollY":624},
 {"id":6,"expanded":false,"name":"開場白","order":8,"parentId":0,"scrollX":819,"scrollY":453},
-{"id":7,"expanded":false,"name":"城堡","order":6,"parentId":5,"scrollX":1232,"scrollY":1368},
-{"id":8,"expanded":false,"name":"森林","order":7,"parentId":5,"scrollX":811,"scrollY":987}
+{"id":7,"expanded":false,"name":"城堡","order":6,"parentId":5,"scrollX":1253,"scrollY":445},
+{"id":8,"expanded":false,"name":"森林","order":7,"parentId":5,"scrollX":811,"scrollY":1131},
+{"id":9,"expanded":false,"name":"收尾","order":9,"parentId":0,"scrollX":819,"scrollY":453}
 ]
